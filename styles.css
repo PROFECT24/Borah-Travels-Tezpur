@@ -27,7 +27,7 @@ code{background:var(--surface-2);padding:.1rem .4rem;border-radius:6px;font-size
 .brand{display:flex;align-items:center;gap:.65rem}
 .brand-logo{
     height: 60px;
-    width: auto;
+    width: 63px;
     display: block;
     transform: scale(1.4);   /* Makes it appear bigger */
     transform-origin: left center;

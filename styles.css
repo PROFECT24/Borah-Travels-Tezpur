@@ -179,6 +179,10 @@ input:focus,select:focus,textarea:focus{outline:none;border-color:var(--brand)}
   .nav-links a{padding:.85rem 0;border-bottom:1px solid var(--line)}
   .nav-cta{margin-top:1rem;border-bottom:0}
   .nav{background:rgba(13,17,23,.9);backdrop-filter:blur(14px)}
+  .nav-inner{justify-content:flex-start;}
+  .nav .container{width:100%;}
+  .brand{justify-content:flex-start;}
+  .brand-text{text-align:left;}
 }
 @media(max-width:560px){
   .row{grid-template-columns:1fr}
